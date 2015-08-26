@@ -24,8 +24,8 @@ public class MultiGraph implements Graph{
 	 * Constructor
 	 */
 	public MultiGraph(){
-		nodeList = new ArrayList<>();
-		edgeList = new ArrayList<>();
+		nodeList = new ArrayList<Node>();
+		edgeList = new ArrayList<Edge>();
 	}
 	
 	/**
