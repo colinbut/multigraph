@@ -1,5 +1,9 @@
+/*
+ * |-------------------------------------------------
+ * | Copyright © 2008 Colin But. All rights reserved. 
+ * |-------------------------------------------------
+ */
 package com.mycompany.multigraph;
-
 
 /**
  * A representation of a 'Stack'
